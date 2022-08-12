@@ -19,6 +19,7 @@
 
   # Usage
   The application will used as a note taker that writes and saves notes.
+  Deployed Application: https://note-taker-app-msu.herokuapp.com/
 
   # User Story
   AS A small business owner, I WANT to be able to write and save notes 
